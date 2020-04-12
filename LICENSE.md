@@ -1,2 +1,2 @@
 
-Copyright (C) 2020 Quentin
+Copyright (C) 2020 Quentin PAYRÉ

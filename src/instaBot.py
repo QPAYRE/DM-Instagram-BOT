@@ -35,12 +35,16 @@ class instaBot:
                 ui.WebDriverWait(self.driver, 10).until(EC.element_to_be_clickable((By.CSS_SELECTOR, ".aOOlW.HoLwm"))).click()
             except:
                 pass
+            time.sleep(2)
             # Try to search keyword
             try:
-                self.instaSearch = self.driver.find_element_by_xpath('//input[@type="text"]').click()
-                self.instaSearch.send_keys(keyword)
+                self.driver.get("https://www.instagram.com/explore/tags/"+keyword)
             except:
                 pass
+            # Loop
+            
+
+
 
 
         def run():

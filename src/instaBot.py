@@ -2,36 +2,69 @@
 
 import sys
 import os
+import time
 from tkinter import *
 from tkinter import messagebox
+from selenium import webdriver
+
+from selenium.webdriver.support import ui
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.common.by import By
 
 class instaBot:
     def __init__(self, win):
-        
+        def backend(account, password, keyword, dm):
+            #Print info in console
+            print(account)
+            print(keyword)
+            print("----------")
+            self.driver = webdriver.Firefox(executable_path='./geckodriver')
+            self.driver.get("https://instagram.com/")
+            # Try to login to instagram
+            try:
+                self.instaAccount = self.driver.find_element_by_name("username")
+                self.instaPassword = self.driver.find_element_by_name("password")
+                self.instaAccount.send_keys(account)
+                self.instaPassword.send_keys(password)
+                self.driver.find_element_by_xpath('//button[@type="submit"]').click()
+            except:
+                pass
+            time.sleep(2)
+            # Try to skip notification popup (fr only)
+            try:
+                ui.WebDriverWait(self.driver, 10).until(EC.element_to_be_clickable((By.CSS_SELECTOR, ".aOOlW.HoLwm"))).click()
+            except:
+                pass
+            # Try to search keyword
+            try:
+                self.instaSearch = self.driver.find_element_by_xpath('//input[@type="text"]').click()
+                self.instaSearch.send_keys(keyword)
+            except:
+                pass
+
+
         def run():
+            """ Return nothing
+                Check if every fields are filled and call run function.
+            """
             check = 0
             if self.t1.get() != '':
-                print(self.t1.get())
-                print('account OK')
                 check=check+1
             if self.t2.get() != '':
-                print(self.t2.get())
-                print('password OK')
                 check=check+1
             if self.t3.get() != '':
-                print(self.t3.get())
-                print('keyword OK')
                 check=check+1
             if self.t4.get() != '':
-                print(self.t4.get())
-                print('DM OK')
                 check=check+1
             if check == 4:
-                print("OK WE CAN CONTINUE")
+                backend(self.t1.get(),self.t2.get(),self.t3.get(),self.t4.get())
             elif check != 4:
                 messagebox.showinfo("Error", "One or several fields are not filled.")
 
         def overview():
+            """ Return nothing
+                Display the DM to check it.
+            """
             txt = self.t4.get()
             self.lbl6=Label(win, text=txt)
             self.lbl6.pack(pady=125)

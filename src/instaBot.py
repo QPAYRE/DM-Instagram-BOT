@@ -3,6 +3,7 @@
 import sys
 import os
 import time
+import string
 from tkinter import *
 from tkinter import messagebox
 from selenium import webdriver
@@ -13,6 +14,23 @@ from selenium.webdriver.common.by import By
 
 class instaBot:
     def __init__(self, win):
+        def sendDm():
+            #for contact in contactList:
+            contax = 'swap.hub'
+            self.driver.get("https://www.instagram.com/direct/inbox/")
+            self.driver.find_element_by_xpath('//button[@type="button"]').click()
+            self.instaSendAccount = self.driver.find_element_by_name("queryBox")
+            self.instaSendAccount.send_keys(contax)
+            test = self.driver.find_elements_by_css_selector('div.Igw0E.rBNOH.YBx95.ybXk5._4EzTm.soMvl')
+            for elem in test:
+                elem.click()
+            self.driver.find_element_by_xpath('//button[@type="button"]').click()
+            self.textArea = self.driver.find_element_by_xpath('//textarea[@placeholder="Message…"]')
+            self.textArea.send_keys("alllééééé")
+            #self.driver.find_elements_by_class_name('sqdOP yWX7d    y3zKF     ').click()
+            time.sleep(10)
+            sys.exit(0)
+
         def backend(account, password, keyword, dm):
             #Print info in console
             print(account)
@@ -29,23 +47,44 @@ class instaBot:
                 self.driver.find_element_by_xpath('//button[@type="submit"]').click()
             except:
                 pass
-            time.sleep(2)
             # Try to skip notification popup (fr only)
             try:
                 ui.WebDriverWait(self.driver, 10).until(EC.element_to_be_clickable((By.CSS_SELECTOR, ".aOOlW.HoLwm"))).click()
             except:
                 pass
-            time.sleep(2)
+            sendDm()
             # Try to search keyword
             try:
                 self.driver.get("https://www.instagram.com/explore/tags/"+keyword)
             except:
                 pass
-            # Loop
-            
-
-
-
+            # loop
+            for i in range(1,3):
+                self.driver.execute_script("window.scrollTo(0,document.body.scrollHeight);")
+                time.sleep(5)
+            #searshing for picture link
+            hrefs = self.driver.find_elements_by_tag_name('a')
+            images_links = []
+            for item in hrefs:
+                href = item.get_attribute('href')
+                if "/p/" not in href:
+                    continue
+                images_links.append(href)
+            # Get @
+            contactList = list()
+            for images_link in images_links:
+                self.driver.get(images_link)
+                self.driver.execute_script("window.scrollTo(0,document.body.scrollHeight);")
+                try:
+                    contact = self.driver.find_element_by_css_selector('a.sqdOP.yWX7d._8A5w5.ZIAjV ')
+                    contactList.append(contact.text)
+                    self.count = self.count + 1
+                except:
+                    pass
+            contactList = list(set(contactList))
+            self.countDM=Label(win, text=str(self.count))
+            # Send DM
+            #sendDm(contactList)
 
         def run():
             """ Return nothing

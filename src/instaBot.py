@@ -4,6 +4,7 @@ import sys
 import os
 import time
 import string
+import traceback
 from tkinter import *
 from tkinter import messagebox
 from selenium import webdriver
@@ -14,22 +15,34 @@ from selenium.webdriver.common.by import By
 
 class instaBot:
     def __init__(self, win):
-        def sendDm():
-            #for contact in contactList:
-            contax = 'swap.hub'
-            self.driver.get("https://www.instagram.com/direct/inbox/")
-            self.driver.find_element_by_xpath('//button[@type="button"]').click()
-            self.instaSendAccount = self.driver.find_element_by_name("queryBox")
-            self.instaSendAccount.send_keys(contax)
-            test = self.driver.find_elements_by_css_selector('div.Igw0E.rBNOH.YBx95.ybXk5._4EzTm.soMvl')
-            for elem in test:
-                elem.click()
-            self.driver.find_element_by_xpath('//button[@type="button"]').click()
-            self.textArea = self.driver.find_element_by_xpath('//textarea[@placeholder="Message…"]')
-            self.textArea.send_keys("alllééééé")
-            #self.driver.find_elements_by_class_name('sqdOP yWX7d    y3zKF     ').click()
-            time.sleep(10)
-            sys.exit(0)
+        def sendDm(contactList):
+            for contact in contactList:
+                contax = 'swap.hub'
+                try:
+                    self.driver.get("https://www.instagram.com/direct/inbox/")
+                    self.driver.find_element_by_xpath('//button[@type="button"]').click()
+                    self.instaSendAccount = self.driver.find_element_by_name("queryBox")
+                    self.instaSendAccount.send_keys(contax)
+                    time.sleep(5)
+                except:
+                    pass
+                try:
+                    list1 = self.driver.find_elements_by_css_selector('div.Igw0E.rBNOH.YBx95.ybXk5._4EzTm.soMvl')
+                    list1[0].click()
+                    time.sleep(2)
+                    self.driver.find_element_by_css_selector('button.sqdOP.yWX7d.y3zKF.cB_4K').click()
+                    time.sleep(1)
+                except Exception:
+                    traceback.print_exc()
+                try:
+                    self.textArea = self.driver.find_element_by_css_selector('textarea')
+                    time.sleep(1)
+                    self.textArea.send_keys(self.t4)
+                    time.sleep(1)
+                    list2 = self.driver.find_elements_by_css_selector('div.Igw0E.IwRSH.eGOV_._4EzTm.JI_ht')
+                    list2[2].click()
+                except:
+                    pass
 
         def backend(account, password, keyword, dm):
             #Print info in console
@@ -52,7 +65,6 @@ class instaBot:
                 ui.WebDriverWait(self.driver, 10).until(EC.element_to_be_clickable((By.CSS_SELECTOR, ".aOOlW.HoLwm"))).click()
             except:
                 pass
-            sendDm()
             # Try to search keyword
             try:
                 self.driver.get("https://www.instagram.com/explore/tags/"+keyword)
@@ -84,7 +96,7 @@ class instaBot:
             contactList = list(set(contactList))
             self.countDM=Label(win, text=str(self.count))
             # Send DM
-            #sendDm(contactList)
+            sendDm(contactList)
 
         def run():
             """ Return nothing

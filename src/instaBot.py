@@ -5,6 +5,8 @@ import os
 import time
 import string
 import traceback
+
+from random import randint
 from tkinter import *
 from tkinter import messagebox
 from selenium import webdriver
@@ -14,36 +16,53 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.common.by import By
 
+bgColor ='#a17957'
+
 class instaBot:
     def __init__(self, win):
-        def sendDm(contactList, dm):
+        def sendDm(contactList, dm, nbdm):
+            """ Return nothing
+                loop that dm to every @
+            """
+            dmed = 1
             for contact in contactList:
-                contax = 'swap.hub'
-                time.sleep(1)
-                self.driver.get("https://www.instagram.com/direct/inbox/")
+                time.sleep(randint(1,10))
                 try:
-                    ui.WebDriverWait(self.driver, 10).until(EC.element_to_be_clickable((By.CSS_SELECTOR, ".aOOlW.HoLwm"))).click()
+                    time.sleep(1)
+                    self.driver.get("https://www.instagram.com/direct/inbox/")
+                    try:
+                        ui.WebDriverWait(self.driver, 10).until(EC.element_to_be_clickable((By.CSS_SELECTOR, ".aOOlW.HoLwm"))).click()
+                    except:
+                        pass
+                    self.driver.find_element_by_xpath('//button[@type="button"]').click()
+                    time.sleep(2)
+                    self.instaSendAccount = self.driver.find_element_by_name("queryBox")
+                    time.sleep(2)
+                    self.instaSendAccount.send_keys(contact)
+                    time.sleep(2)
+                    list1 = self.driver.find_elements_by_css_selector('div.Igw0E.rBNOH.YBx95.ybXk5._4EzTm.soMvl')
+                    self.driver.execute_script("arguments[0].click();", list1[0])
+                    time.sleep(2)
+                    self.driver.find_element_by_css_selector('button.sqdOP.yWX7d.y3zKF.cB_4K').click()
+                    time.sleep(2)
+                    self.textArea = self.driver.find_element_by_css_selector('textarea')
+                    time.sleep(2)
+                    self.textArea.send_keys(dm)
+                    time.sleep(2)
+                    self.driver.find_element_by_css_selector('div.Igw0E.IwRSH.eGOV_._4EzTm.JI_ht > button:nth-child(1)').click()
+                    if dmed == nbdm:
+                        self.done=Label(win, text='DMs DONE !', bg='#3E4149')
+                        self.done.place(x=330, y=200)
+                        break
+                    dmed = dmed+1
                 except:
                     pass
-                self.driver.find_element_by_xpath('//button[@type="button"]').click()
-                time.sleep(4)
-                self.instaSendAccount = self.driver.find_element_by_name("queryBox")
-                time.sleep(4)
-                self.instaSendAccount.send_keys(contax)
-                time.sleep(4)
-                print("Let's click")
-                list1 = self.driver.find_elements_by_css_selector('div.Igw0E.rBNOH.YBx95.ybXk5._4EzTm.soMvl')
-                self.driver.execute_script("arguments[0].click();", list1[0])
-                time.sleep(2)
-                self.driver.find_element_by_css_selector('button.sqdOP.yWX7d.y3zKF.cB_4K').click()
-                time.sleep(2)
-                self.textArea = self.driver.find_element_by_css_selector('textarea')
-                time.sleep(2)
-                self.textArea.send_keys(dm)
-                time.sleep(2)
-                self.driver.find_element_by_css_selector('div.Igw0E.IwRSH.eGOV_._4EzTm.JI_ht > button:nth-child(1)').click()
 
-        def backend(account, password, keyword, dm):
+        def backend(account, password, keyword, dm, nbdm):
+            """ Return nothing
+                It get @ from account in terms of #
+                Send @, nb of dm to send, and the dm to sendDm()
+            """
             #Print info in console
             print("Insta Account: "+account)
             print('#'+keyword)
@@ -73,7 +92,7 @@ class instaBot:
             # loop
             for i in range(1,3):
                 self.driver.execute_script("window.scrollTo(0,document.body.scrollHeight);")
-                time.sleep(5)
+                time.sleep(2)
             #searshing for picture link
             hrefs = self.driver.find_elements_by_tag_name('a')
             images_links = []
@@ -96,7 +115,7 @@ class instaBot:
             contactList = list(set(contactList))
             self.countDM=Label(win, text=str(self.count))
             # Send DM
-            sendDm(contactList, dm)
+            sendDm(contactList, dm, int(nbdm))
 
         def run():
             """ Return nothing
@@ -111,52 +130,44 @@ class instaBot:
                 check=check+1
             if self.t4.get() != '':
                 check=check+1
-            if check == 4:
-                backend(self.t1.get(),self.t2.get(),self.t3.get(),self.t4.get())
-            elif check != 4:
+            if self.nb.get() != '':
+                check=check+1
+            if check == 5:
+                backend(self.t1.get(),self.t2.get(),self.t3.get(),self.t4.get(), self.nb.get())
+            elif check != 5:
                 messagebox.showinfo("Error", "One or several fields are not filled.")
-
-        def overview():
-            """ Return nothing
-                Display the DM to check it.
-            """
-            txt = self.t4.get()
-            self.lbl6=Label(win, text=txt)
-            self.lbl6.pack(pady=125)
         
         self.count=int()
         #Instagram account & password
-        self.lbl1=Label(win, text='Account : @')
+        self.lbl1=Label(win, text='Account : @', bg=bgColor)
         self.lbl1.place(x=10, y=5)
         self.t1=Entry()
-        self.t1.place(x=85, y=5)
-        self.lbl2=Label(win, text='Password :')
+        self.t1.place(x=90, y=5)
+        self.lbl2=Label(win, text='Password :', bg=bgColor)
         self.lbl2.place(x=10, y=35)
         self.t2=Entry(show="*")
-        self.t2.place(x=85, y=35)
+        self.t2.place(x=90, y=35)
 
         #DM counter
-        self.lbl3=Label(win, text='Nb account DMed :')
+        self.lbl3=Label(win, text='Nb account to DM (20max /day or you might be banned) :', bg=bgColor)
         self.lbl3.place(x=10, y=125)
-        self.countDM=Label(win, text=str(self.count))
-        self.countDM.place(x=135, y=125)
+        self.nb=Entry()
+        self.nb.place(x=365, y=125)
 
         #Key word research
-        self.lbl4=Label(win, text='Key Word research :')
+        self.lbl4=Label(win, text='Key Word research : #', bg=bgColor)
         self.lbl4.place(x=300, y=5)
         self.t3=Entry()
-        self.t3.place(x=430,y=5)
+        self.t3.place(x=445,y=5)
         
         #DM message
-        self.lbl5=Label(win, text='DM (past here):')
+        self.lbl5=Label(win, text='DM (past here):', bg=bgColor)
         self.lbl5.place(x=300, y=35)
         self.t4=Entry()
-        self.t4.place(x=430, y=35)
-        self.b1=Button(win, text='Overview', command=overview, bg="green")
-        self.b1.place(x=600, y=35)
+        self.t4.place(x=445, y=35)
 
         #Run button
-        self.runButton=Button(win, text='Run', command=run, bg="green")
+        self.runButton=Button(win, text='Run', command=run, highlightbackground=bgColor)
         self.runButton.place(x=350, y=250)
 
 def instaBotDM():
@@ -168,4 +179,6 @@ def instaBotDM():
     mywin=instaBot(window)
     window.title('Insta Bot DM')
     window.geometry("700x300")
+    window.configure(bg=bgColor)
+    window.resizable(False, False)
     window.mainloop()

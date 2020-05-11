@@ -2802,3 +2802,1451 @@ JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: Inv
 1587586705050	Marionette	INFO	Stopped listening on port 49876
 1587586705932	Marionette	INFO	Stopped listening on port 51847
 1587586707091	Marionette	INFO	Stopped listening on port 63041
+1587589258289	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ym/0q3r_bl91z1btxnsrn7y0t1c0000gn/T/rust_mozprofile.BVocxAqzGolk"
+1587589259058	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587589259470	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587589259470	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587589259470	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587589259470	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1587589261848	Marionette	INFO	Listening on port 58384
+1587589261888	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/fa8aefdccd87.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/fa8aefdccd87.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+1587589590640	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ym/0q3r_bl91z1btxnsrn7y0t1c0000gn/T/rust_mozprofile.nIBhXxgqGdWv"
+1587589591253	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587589591611	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587589591611	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587589591611	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587589591611	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1587589593929	Marionette	INFO	Listening on port 60010
+1587589594017	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/fa8aefdccd87.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+1587590137550	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ym/0q3r_bl91z1btxnsrn7y0t1c0000gn/T/rust_mozprofile.X7QTT6ZIE7sk"
+1587590138265	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587590138648	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587590138648	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587590138648	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587590138648	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1587590140972	Marionette	INFO	Listening on port 62494
+1587590141045	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/fa8aefdccd87.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/fa8aefdccd87.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/fa8aefdccd87.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/fa8aefdccd87.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/fa8aefdccd87.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/DesktopDirectPage.js/d843ef756900.js, line 27: TypeError: t.ranked_recipients is undefined
+1587590451285	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1587590629362	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ym/0q3r_bl91z1btxnsrn7y0t1c0000gn/T/rust_mozprofile.pRxoeQJJJhe7"
+1587590629996	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587590630367	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587590630367	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587590630368	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587590630368	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1587590632827	Marionette	INFO	Listening on port 64812
+1587590632924	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/fa8aefdccd87.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+1587590822931	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1587590841918	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1587590860937	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/fa8aefdccd87.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+1587590907173	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1587590925972	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/fa8aefdccd87.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/fa8aefdccd87.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/fa8aefdccd87.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/fa8aefdccd87.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/fa8aefdccd87.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/fa8aefdccd87.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/fa8aefdccd87.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/fa8aefdccd87.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/fa8aefdccd87.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/fa8aefdccd87.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/fa8aefdccd87.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/fa8aefdccd87.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/fa8aefdccd87.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/fa8aefdccd87.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/fa8aefdccd87.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+1587591367582	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1587591386398	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/fa8aefdccd87.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/fa8aefdccd87.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/fa8aefdccd87.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/fa8aefdccd87.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/fa8aefdccd87.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/fa8aefdccd87.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/fa8aefdccd87.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/fa8aefdccd87.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/fa8aefdccd87.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/fa8aefdccd87.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/fa8aefdccd87.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/fa8aefdccd87.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/fa8aefdccd87.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/fa8aefdccd87.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/fa8aefdccd87.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/fa8aefdccd87.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+1587591862936	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1587591881648	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1587591900369	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1587591919049	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1587592266908	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ym/0q3r_bl91z1btxnsrn7y0t1c0000gn/T/rust_mozprofile.RTHsk21LlxZ2"
+1587592267697	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587592268074	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587592268074	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587592268074	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587592268075	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1587592270472	Marionette	INFO	Listening on port 55108
+1587592270489	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: [object Event]
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/fa8aefdccd87.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+1587592466896	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/fa8aefdccd87.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/fa8aefdccd87.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/fa8aefdccd87.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/fa8aefdccd87.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/fa8aefdccd87.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+Exiting due to channel error.
+Exiting due to channel error.
+1587592927182	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ym/0q3r_bl91z1btxnsrn7y0t1c0000gn/T/rust_mozprofile.WA8HZPpvy1c4"
+1587592927849	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587592928239	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587592928239	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587592928239	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587592928239	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1587592930307	Marionette	INFO	Listening on port 55470
+1587592930361	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: [object Event]
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1587593193691	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ym/0q3r_bl91z1btxnsrn7y0t1c0000gn/T/rust_mozprofile.REPksfLQi7G0"
+1587593194257	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587593194627	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587593194628	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587593194628	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587593194628	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1587593196814	Marionette	INFO	Listening on port 55707
+1587593196848	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+Exiting due to channel error.
+1587648541784	Marionette	INFO	Stopped listening on port 58384
+1587648547395	Marionette	INFO	Stopped listening on port 60010
+1587648549464	Marionette	INFO	Stopped listening on port 64812
+1587758241749	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ym/0q3r_bl91z1btxnsrn7y0t1c0000gn/T/rust_mozprofile.yYNjn4vMwdYV"
+1587758242536	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587758242940	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587758242940	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587758242940	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587758242940	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1587758245316	Marionette	INFO	Listening on port 55293
+1587758245414	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: [object Event]
+JavaScript error: , line 0: uncaught exception: Object
+1587758356927	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1587758384959	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1587758412415	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/9a9cd22142e6.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+1587758476310	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1587758503308	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1587758531366	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/9a9cd22142e6.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/9a9cd22142e6.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/9a9cd22142e6.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/9a9cd22142e6.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+1587758712937	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1587758738938	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1587758759928	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1587758786948	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1587758812963	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/9a9cd22142e6.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/9a9cd22142e6.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+1587758934389	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1587758955636	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/9a9cd22142e6.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/9a9cd22142e6.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/9a9cd22142e6.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/9a9cd22142e6.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/9a9cd22142e6.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+Exiting due to channel error.
+1587759423127	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ym/0q3r_bl91z1btxnsrn7y0t1c0000gn/T/rust_mozprofile.1hMx30gB57v4"
+1587759423807	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587759424165	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587759424165	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587759424166	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587759424166	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1587759426288	Marionette	INFO	Listening on port 55944
+1587759426296	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1587759549772	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1587759576329	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1587759601608	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1587759630491	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1587759651488	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1587759680976	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1587759709114	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/9a9cd22142e6.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/9a9cd22142e6.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/9a9cd22142e6.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/9a9cd22142e6.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/9a9cd22142e6.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/9a9cd22142e6.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/9a9cd22142e6.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/9a9cd22142e6.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/9a9cd22142e6.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+Exiting due to channel error.
+1587893532061	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ym/0q3r_bl91z1btxnsrn7y0t1c0000gn/T/rust_mozprofile.0KJuHp9YZY7k"
+1587893533013	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587893533427	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587893533427	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587893533427	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587893533427	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1587893535664	Marionette	INFO	Listening on port 51823
+1587893535742	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: [object Event]
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/9a9cd22142e6.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/9a9cd22142e6.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/9a9cd22142e6.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/9a9cd22142e6.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/9a9cd22142e6.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/9a9cd22142e6.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+1587895237342	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ym/0q3r_bl91z1btxnsrn7y0t1c0000gn/T/rust_mozprofile.79aGcPSbmKm6"
+1587895238172	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587895238526	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587895238527	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587895238527	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587895238527	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1587895240678	Marionette	INFO	Listening on port 52211
+1587895240697	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1587895287923	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ym/0q3r_bl91z1btxnsrn7y0t1c0000gn/T/rust_mozprofile.4J5hrhrmjkYb"
+1587895288580	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587895288936	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587895288936	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587895288936	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587895288937	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1587895291041	Marionette	INFO	Listening on port 52291
+1587895291077	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: [object Event]
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/9a9cd22142e6.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/9a9cd22142e6.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/9a9cd22142e6.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/9a9cd22142e6.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/9a9cd22142e6.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/9a9cd22142e6.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/9a9cd22142e6.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/9a9cd22142e6.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/9a9cd22142e6.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/9a9cd22142e6.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/9a9cd22142e6.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/9a9cd22142e6.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/9a9cd22142e6.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/9a9cd22142e6.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+1587896508788	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1587896531813	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1587896557838	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1587896581875	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1587896604760	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1587896633759	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1587896662691	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1587896686706	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1587896713640	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1587908917757	Marionette	INFO	Stopped listening on port 52291
+1587908918018	Marionette	INFO	Stopped listening on port 52211
+1587908918283	Marionette	INFO	Stopped listening on port 51823
+1587996292359	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ym/0q3r_bl91z1btxnsrn7y0t1c0000gn/T/rust_mozprofile.hMq8pOXyvMNW"
+1587996293327	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587996293746	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587996293747	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587996293747	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587996293747	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1587996295909	Marionette	INFO	Listening on port 53035
+1587996295930	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/9a9cd22142e6.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/9a9cd22142e6.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/9a9cd22142e6.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/9a9cd22142e6.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/9a9cd22142e6.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+1587996665455	Marionette	INFO	Stopped listening on port 53035
+1587996725944	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ym/0q3r_bl91z1btxnsrn7y0t1c0000gn/T/rust_mozprofile.GuxDcNOgUl2Z"
+1587996726599	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587996727030	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587996727030	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587996727031	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587996727031	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1587996729309	Marionette	INFO	Listening on port 53252
+1587996729330	Marionette	WARN	TLS certificate errors will be ignored for this session
+1587996750970	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ym/0q3r_bl91z1btxnsrn7y0t1c0000gn/T/rust_mozprofile.ZbVZAkUcbNZr"
+1587996751466	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587996751909	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587996751909	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587996751910	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587996751910	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1587996754173	Marionette	INFO	Listening on port 53333
+1587996754261	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: [object Event]
+JavaScript error: , line 0: uncaught exception: Object
+1587996915145	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ym/0q3r_bl91z1btxnsrn7y0t1c0000gn/T/rust_mozprofile.NOnEg2DpziAP"
+1587996915620	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587996916027	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587996916027	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587996916027	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587996916027	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1587996918553	Marionette	INFO	Listening on port 53460
+1587996918638	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: [object Event]
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/9a9cd22142e6.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/9a9cd22142e6.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/9a9cd22142e6.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/9a9cd22142e6.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/9a9cd22142e6.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/9a9cd22142e6.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/9a9cd22142e6.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/9a9cd22142e6.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/9a9cd22142e6.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/9a9cd22142e6.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/9a9cd22142e6.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/9a9cd22142e6.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+1588070184970	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ym/0q3r_bl91z1btxnsrn7y0t1c0000gn/T/rust_mozprofile.DToASW1pcHYz"
+1588070185965	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588070186358	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588070186359	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588070186359	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588070186359	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588070188631	Marionette	INFO	Listening on port 50722
+1588070188694	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: [object Event]
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/870030305b2d.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/870030305b2d.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/870030305b2d.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/870030305b2d.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/870030305b2d.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/870030305b2d.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/870030305b2d.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/870030305b2d.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/870030305b2d.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/870030305b2d.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/870030305b2d.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+1588071143076	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ym/0q3r_bl91z1btxnsrn7y0t1c0000gn/T/rust_mozprofile.dfrcchDVUrD7"
+1588071143652	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588071144017	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588071144017	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588071144017	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588071144017	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588071146070	Marionette	INFO	Listening on port 51622
+1588071146158	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/870030305b2d.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/870030305b2d.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/870030305b2d.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/870030305b2d.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/870030305b2d.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+1588074261297	Marionette	INFO	Stopped listening on port 51622
+1588190153359	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ym/0q3r_bl91z1btxnsrn7y0t1c0000gn/T/rust_mozprofile.EBjkiYGDvFCI"
+1588190154339	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588190154821	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588190154821	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588190154821	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588190154821	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588190157513	Marionette	INFO	Listening on port 50131
+1588190157609	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/3169e6f93524.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/3169e6f93524.js, line 72: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/3169e6f93524.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/3169e6f93524.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/3169e6f93524.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+1588190555163	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ym/0q3r_bl91z1btxnsrn7y0t1c0000gn/T/rust_mozprofile.iYAB5xZ9XgoR"
+1588190555696	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588190556148	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588190556148	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588190556148	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588190556148	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588190558426	Marionette	INFO	Listening on port 50455
+1588190558461	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: [object Event]
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/3169e6f93524.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/3169e6f93524.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/3169e6f93524.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/3169e6f93524.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/3169e6f93524.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/3169e6f93524.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/3169e6f93524.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/3169e6f93524.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/3169e6f93524.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/3169e6f93524.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/3169e6f93524.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/3169e6f93524.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+1588274732195	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ym/0q3r_bl91z1btxnsrn7y0t1c0000gn/T/rust_mozprofile.6SSkTPhFEGfi"
+1588274733323	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588274733701	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588274733702	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588274733702	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588274733702	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588274735790	Marionette	INFO	Listening on port 61470
+1588274735875	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: [object Event]
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/25dcea89b003.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/25dcea89b003.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/25dcea89b003.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/25dcea89b003.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/25dcea89b003.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/25dcea89b003.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/25dcea89b003.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/25dcea89b003.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/25dcea89b003.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/25dcea89b003.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/25dcea89b003.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/25dcea89b003.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+1588275336050	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ym/0q3r_bl91z1btxnsrn7y0t1c0000gn/T/rust_mozprofile.gZSpqngUGyAi"
+1588275336513	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588275336869	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588275336869	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588275336870	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588275336870	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588275338784	Marionette	INFO	Listening on port 61754
+1588275338807	Marionette	WARN	TLS certificate errors will be ignored for this session
+1588275364636	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ym/0q3r_bl91z1btxnsrn7y0t1c0000gn/T/rust_mozprofile.JbOgqOdQapaO"
+1588275365080	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588275365442	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588275365442	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588275365442	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588275365442	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588275367455	Marionette	INFO	Listening on port 61832
+1588275367500	Marionette	WARN	TLS certificate errors will be ignored for this session
+1588275401458	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ym/0q3r_bl91z1btxnsrn7y0t1c0000gn/T/rust_mozprofile.gJnoNmYLsaF8"
+1588275401888	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588275402282	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588275402282	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588275402282	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588275402282	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588275404230	Marionette	INFO	Listening on port 61904
+1588275404326	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: [object Event]
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/25dcea89b003.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/25dcea89b003.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/25dcea89b003.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/25dcea89b003.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/25dcea89b003.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+1588275695873	Marionette	INFO	Stopped listening on port 61832
+1588275696936	Marionette	INFO	Stopped listening on port 61754
+1588275697769	Marionette	INFO	Stopped listening on port 61470
+1588275700712	Marionette	INFO	Stopped listening on port 50131
+1588439231322	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ym/0q3r_bl91z1btxnsrn7y0t1c0000gn/T/rust_mozprofile.OuGlDg06hv9x"
+1588439232252	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588439232683	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588439232684	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588439232684	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588439232684	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588439234970	Marionette	INFO	Listening on port 61751
+1588439234987	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/8fb81e9256e4.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/8fb81e9256e4.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/8fb81e9256e4.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/8fb81e9256e4.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/8fb81e9256e4.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+1588439697523	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ym/0q3r_bl91z1btxnsrn7y0t1c0000gn/T/rust_mozprofile.R7ApYHwa3jNr"
+1588439698012	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588439698408	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588439698409	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588439698409	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588439698409	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588439700448	Marionette	INFO	Listening on port 62006
+1588439700492	Marionette	WARN	TLS certificate errors will be ignored for this session
+1588439724003	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ym/0q3r_bl91z1btxnsrn7y0t1c0000gn/T/rust_mozprofile.Mt4PijvaiadQ"
+1588439724462	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588439724848	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588439724848	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588439724848	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588439724848	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588439726879	Marionette	INFO	Listening on port 62075
+1588439726887	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/8fb81e9256e4.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/8fb81e9256e4.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/8fb81e9256e4.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/8fb81e9256e4.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/8fb81e9256e4.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/8fb81e9256e4.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/8fb81e9256e4.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/8fb81e9256e4.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/8fb81e9256e4.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/8fb81e9256e4.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/8fb81e9256e4.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/8fb81e9256e4.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+1588526387292	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ym/0q3r_bl91z1btxnsrn7y0t1c0000gn/T/rust_mozprofile.ocQ3d84jgute"
+1588526388151	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588526388549	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588526388549	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588526388549	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588526388549	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588526390773	Marionette	INFO	Listening on port 52110
+1588526390820	Marionette	WARN	TLS certificate errors will be ignored for this session
+1588526423865	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ym/0q3r_bl91z1btxnsrn7y0t1c0000gn/T/rust_mozprofile.9VrgVcAI01eZ"
+1588526424361	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588526424748	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588526424748	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588526424748	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588526424749	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588526426912	Marionette	INFO	Listening on port 52199
+1588526426980	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: [object Event]
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/8fb81e9256e4.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/8fb81e9256e4.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/8fb81e9256e4.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/8fb81e9256e4.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/8fb81e9256e4.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/8fb81e9256e4.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/8fb81e9256e4.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/8fb81e9256e4.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/8fb81e9256e4.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/8fb81e9256e4.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/8fb81e9256e4.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/8fb81e9256e4.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+1588527091530	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ym/0q3r_bl91z1btxnsrn7y0t1c0000gn/T/rust_mozprofile.5iFOzuIbrMiR"
+1588527092015	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588527092390	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588527092390	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588527092390	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588527092391	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588527094487	Marionette	INFO	Listening on port 52509
+1588527094533	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: [object Event]
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/8fb81e9256e4.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/8fb81e9256e4.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/8fb81e9256e4.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/8fb81e9256e4.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/8fb81e9256e4.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/8fb81e9256e4.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+1588527901309	Marionette	INFO	Stopped listening on port 52509
+1588610586794	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ym/0q3r_bl91z1btxnsrn7y0t1c0000gn/T/rust_mozprofile.kRpKKCWGaDhZ"
+1588610587761	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588610588316	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588610588317	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588610588317	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588610588317	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588610591086	Marionette	INFO	Listening on port 62673
+1588610591165	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: [object Event]
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/8fb81e9256e4.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/8fb81e9256e4.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/00fcfca33fe5.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/00fcfca33fe5.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/00fcfca33fe5.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+1588612400684	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ym/0q3r_bl91z1btxnsrn7y0t1c0000gn/T/rust_mozprofile.uB45xxard0eb"
+1588612401385	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588612401765	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588612401765	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588612401765	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588612401765	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588612403849	Marionette	INFO	Listening on port 63165
+1588612403895	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/00fcfca33fe5.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/00fcfca33fe5.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/00fcfca33fe5.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/00fcfca33fe5.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/00fcfca33fe5.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/00fcfca33fe5.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/00fcfca33fe5.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/00fcfca33fe5.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/00fcfca33fe5.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/00fcfca33fe5.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/00fcfca33fe5.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/00fcfca33fe5.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/00fcfca33fe5.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+1588615809421	Marionette	INFO	Stopped listening on port 62673
+1588707959538	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ym/0q3r_bl91z1btxnsrn7y0t1c0000gn/T/rust_mozprofile.RNx5vDMfopjt"
+1588707960419	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588707960817	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588707960817	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588707960817	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588707960817	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588707963125	Marionette	INFO	Listening on port 50018
+1588707963167	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1588708282712	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ym/0q3r_bl91z1btxnsrn7y0t1c0000gn/T/rust_mozprofile.6rRkXovOHkUn"
+1588708283208	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588708283606	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588708283606	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588708283606	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588708283606	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588708285765	Marionette	INFO	Listening on port 50176
+1588708285805	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: [object Event]
+JavaScript error: , line 0: uncaught exception: Object
+1588708403515	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ym/0q3r_bl91z1btxnsrn7y0t1c0000gn/T/rust_mozprofile.Xacs3bffTPmT"
+1588708403991	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588708404368	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588708404368	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588708404368	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588708404368	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588708406469	Marionette	INFO	Listening on port 50299
+1588708406493	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: [object Event]
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/5d94d451d8cb.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/5d94d451d8cb.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/5d94d451d8cb.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/5d94d451d8cb.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/5d94d451d8cb.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/5d94d451d8cb.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/5d94d451d8cb.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/5d94d451d8cb.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/5d94d451d8cb.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/5d94d451d8cb.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/5d94d451d8cb.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/5d94d451d8cb.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/5d94d451d8cb.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+1588709159737	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ym/0q3r_bl91z1btxnsrn7y0t1c0000gn/T/rust_mozprofile.SIiuOntDYtRr"
+1588709160194	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588709160568	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588709160568	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588709160568	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588709160568	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588709162663	Marionette	INFO	Listening on port 50637
+1588709162726	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: [object Event]
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/5d94d451d8cb.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/5d94d451d8cb.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/5d94d451d8cb.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/5d94d451d8cb.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/5d94d451d8cb.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/5d94d451d8cb.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+1588850558386	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ym/0q3r_bl91z1btxnsrn7y0t1c0000gn/T/rust_mozprofile.Fkwya65gmnVb"
+1588850559139	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588850559517	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588850559517	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588850559517	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588850559518	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588850561552	Marionette	INFO	Listening on port 60912
+1588850561635	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: [object Event]
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/de22e753460f.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/de22e753460f.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/de22e753460f.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/de22e753460f.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/de22e753460f.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/de22e753460f.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/de22e753460f.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/de22e753460f.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/de22e753460f.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/de22e753460f.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/de22e753460f.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/de22e753460f.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+1588851397364	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ym/0q3r_bl91z1btxnsrn7y0t1c0000gn/T/rust_mozprofile.h8nXygiT3DeP"
+1588851397860	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588851398285	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588851398285	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588851398286	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588851398286	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588851400474	Marionette	INFO	Listening on port 61307
+1588851400545	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/de22e753460f.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/de22e753460f.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/de22e753460f.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/de22e753460f.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/de22e753460f.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+1588969886467	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ym/0q3r_bl91z1btxnsrn7y0t1c0000gn/T/rust_mozprofile.OrgukhF3MoLz"
+1588969887173	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588969887538	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588969887538	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588969887538	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588969887538	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588969889556	Marionette	INFO	Listening on port 54911
+1588969889619	Marionette	WARN	TLS certificate errors will be ignored for this session
+1588969901544	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/25a0b936302e.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/25a0b936302e.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/25a0b936302e.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/25a0b936302e.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/25a0b936302e.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1588970705570	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ym/0q3r_bl91z1btxnsrn7y0t1c0000gn/T/rust_mozprofile.A6aJmZIwnKoU"
+1588970706119	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588970706467	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588970706467	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588970706467	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588970706467	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588970708316	Marionette	INFO	Listening on port 55333
+1588970708415	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/25a0b936302e.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/25a0b936302e.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/25a0b936302e.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/25a0b936302e.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/25a0b936302e.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/25a0b936302e.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/25a0b936302e.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/f66c69e5a7dc.js, line 383: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/25a0b936302e.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+1588971173124	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ym/0q3r_bl91z1btxnsrn7y0t1c0000gn/T/rust_mozprofile.zEaTVmG6RjJx"
+1588971173572	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588971173924	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588971173924	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588971173924	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588971173924	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588971175958	Marionette	INFO	Listening on port 55614
+1588971175983	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: [object Event]
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/25a0b936302e.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/25a0b936302e.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/25a0b936302e.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/25a0b936302e.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/25a0b936302e.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+1589048180698	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ym/0q3r_bl91z1btxnsrn7y0t1c0000gn/T/rust_mozprofile.lsBk2Nnzbz2i"
+1589048182089	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589048182499	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589048182499	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589048182499	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589048182499	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1589048184617	Marionette	INFO	Listening on port 63052
+1589048184711	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/25a0b936302e.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/25a0b936302e.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/25a0b936302e.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/25a0b936302e.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/25a0b936302e.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/25a0b936302e.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/25a0b936302e.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/25a0b936302e.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/25a0b936302e.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/25a0b936302e.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/25a0b936302e.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/25a0b936302e.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+1589048849832	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ym/0q3r_bl91z1btxnsrn7y0t1c0000gn/T/rust_mozprofile.mx3AQpsjQ9kr"
+1589048850860	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589048851261	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589048851261	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589048851261	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589048851261	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1589048853494	Marionette	INFO	Listening on port 63502
+1589048853542	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/25a0b936302e.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+JavaScript error: , line 0: uncaught exception: null
+1589097329408	Marionette	INFO	Stopped listening on port 50018
+1589097330639	Marionette	INFO	Stopped listening on port 61307
+1589126387799	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ym/0q3r_bl91z1btxnsrn7y0t1c0000gn/T/rust_mozprofile.ix9xxgxxaRFk"
+1589126388691	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589126389119	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589126389119	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589126389119	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589126389119	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1589126391371	Marionette	INFO	Listening on port 54322
+1589126391439	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/25a0b936302e.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/25a0b936302e.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/25a0b936302e.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/25a0b936302e.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/25a0b936302e.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/25a0b936302e.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/25a0b936302e.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/25a0b936302e.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/25a0b936302e.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/25a0b936302e.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/25a0b936302e.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/25a0b936302e.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+1589127172024	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ym/0q3r_bl91z1btxnsrn7y0t1c0000gn/T/rust_mozprofile.sDupuvov15nB"
+1589127172582	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589127172947	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589127172947	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589127172947	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589127172947	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1589127174980	Marionette	INFO	Listening on port 54686
+1589127175027	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: [object Event]
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/25a0b936302e.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/25a0b936302e.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+1589127392427	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/25a0b936302e.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/25a0b936302e.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/25a0b936302e.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+1589127597369	Marionette	INFO	Stopped listening on port 54686
+1589127599036	Marionette	INFO	Stopped listening on port 54322
+1589216390824	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ym/0q3r_bl91z1btxnsrn7y0t1c0000gn/T/rust_mozprofile.ByQN80ca25xb"
+1589216391682	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589216392140	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589216392140	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589216392140	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589216392140	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1589216394356	Marionette	INFO	Listening on port 58981
+1589216394404	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/c67df1d2b962.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/c67df1d2b962.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/c67df1d2b962.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/c67df1d2b962.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/c67df1d2b962.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/c67df1d2b962.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/c67df1d2b962.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/c67df1d2b962.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/c67df1d2b962.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/c67df1d2b962.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/c67df1d2b962.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/c67df1d2b962.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+1589217233084	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ym/0q3r_bl91z1btxnsrn7y0t1c0000gn/T/rust_mozprofile.CR6YmU1wDF9w"
+1589217233769	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589217234144	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589217234144	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589217234144	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589217234144	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1589217236180	Marionette	INFO	Listening on port 59331
+1589217236261	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/c67df1d2b962.js, line 72: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
